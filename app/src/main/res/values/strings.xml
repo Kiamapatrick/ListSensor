@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Sensor Explorer</string>
+    <string name="sensor_icon">Sensor icon</string>
+    <string name="sensor_type_prefix">Type: %1$d (%2$s)</string>
+    <string name="sensor_vendor_prefix">Vendor: %1$s</string>
+    <string name="sensor_power_prefix">Power: %1$.2f mA</string>
+    <string name="sensor_resolution_prefix">Resolution: %1$.4f</string>
+    <string name="sensor_range_prefix">Max Range: %1$.2f</string>
+    <string name="no_sensors_found">No sensors available on this device</string>
+    <string name="sensor_count">%d sensors found</string>
+    <string name="sensor_category_motion">Motion</string>
+    <string name="sensor_category_environment">Environment</string>
+    <string name="sensor_category_position">Position</string>
+    <string name="sensor_category_other">Other</string>
+</resources>

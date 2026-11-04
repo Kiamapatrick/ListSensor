@@ -1,0 +1,60 @@
+# Android
+*.apk
+*.ap_
+*.aab
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle
+.gradle/
+build/
+/*/build/
+/*/build/
+
+# Local configuration
+local.properties
+gradle.properties
+
+# IDE
+.idea/
+*.iml
+*.iws
+*.ipr
+*.classpath
+*.project
+*.settings/
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Proguard
+proguard/
+
+# Keystore
+*.jks
+*.keystore
+
+# External native build
+.externalNativeBuild/
+
+# CMake
+.cmake/
+CMakeLists.txt.user
+
+# Lint
+lint-results.html
+lint/
+
+# Coverage
+coverage/
+
+# Android Studio captured test outputs
+captures/
+
+# Gradle wrapper
+!gradle/wrapper/gradle-wrapper.jar
